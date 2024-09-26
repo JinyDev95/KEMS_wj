@@ -1,0 +1,5 @@
+package com.kems.videoclass.application.Course.dto;
+
+public class CourseRequestDto {
+
+}
